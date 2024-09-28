@@ -8,8 +8,8 @@ function Aboutsection() {
     <h1 className="text-3xl text-center mt-5 md:mt-0 ">About Us</h1>
     <div className="flex flex-col md:flex-row  lg:flex-row  w-full h-auto  gap-8 p-[12%]">
 
-      <div id="div1" className=" md:-rotate-[5deg]">
-        <img src={About} alt="" className="rounded-3xl h-[70%] md:h-[90%]  p-5 md:p-0 "  />
+      <div id="div1" className=" md:-rotate-[5deg] justify-center flex items-center">
+        <img src={About} alt="" className="rounded-3xl h-[250px] xs:h-[200px]  md:h-[90%]  p-5 md:p-0 "  />
       </div>
 
       <div id="div2" className="flex flex-col">

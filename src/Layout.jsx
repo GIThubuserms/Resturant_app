@@ -9,11 +9,7 @@ function Layout() {
   return (
     <>
     <Headersection/>
-    <br></br>
-
     <Outlet/>
-     
-
     <Fotter/>
     </>  
     )
